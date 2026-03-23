@@ -1,10 +1,10 @@
 # Real world prompting
 
-Welcome to Anthropic's comprehensive real world prompting tutorial. This course is designed for experienced developers who have already dipped their toes into the world of prompt engineering, particularly those who have completed our comprehensive **[Prompt engineering interactive tutorial](../prompt_engineering_interactive_tutorial/README.md)**. If you haven't gone through that tutorial yet, we strongly recommend you do so before continuing, as it provides an in-depth exploration of various prompting techniques with hands-on exercises.
+Vítejte v komplexním tutoriálu o real world prompting od společnosti Anthropic. Tento kurz je určen pro zkušené vývojáře, kteří již mají základní znalosti v oblasti prompt engineering, zejména pro ty, kteří dokončili náš komplexní **[Prompt engineering interactive tutorial](../prompt_engineering_interactive_tutorial/README.md)**. Pokud jste tento tutoriál ještě neabsolvovali, důrazně doporučujeme, abyste tak učinili před pokračováním, protože poskytuje podrobný průzkum různých technik promptingu s praktickými cvičeními.
 
-Across five lessons, you will learn how to incorporate key prompting techniques into complex, real world prompts. We recommend that you start from the beginning with the [Prompting recap](./01_prompting_recap.ipynb) lesson, as each lesson builds on key concepts taught in previous ones.
+Během pěti lekcí se naučíte, jak začlenit klíčové techniky promptingu do složitých, reálných promptů. Doporučujeme začít od začátku s lekcí [Prompting recap](./01_prompting_recap.ipynb), protože každá lekce staví na klíčových konceptech vyučovaných v předchozích lekcích.
 
-## Table of contents
+## Obsah
 * [Prompting recap](./01_prompting_recap.ipynb)
 * [Medical prompt walkthrough](./02_medical_prompt.ipynb)
 * [Prompt engineering process](./03_prompt_engineering.ipynb)

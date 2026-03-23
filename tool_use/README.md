@@ -1,11 +1,11 @@
-# Tool use
+# Použití nástrojů
 
-Welcome to Anthropic's comprehensive tool use tutorial. Across six lessons, you will learn everything you need to know to implement tool use successfully in your workflows with Claude. We recommend that you start from the beginning with the [tool use overview](./01_tool_use_overview.ipynb), as each lesson builds on key concepts taught in previous ones.
+Vítejte v komplexním tutoriálu o použití nástrojů od společnosti Anthropic. Během šesti lekcí se naučíte vše, co potřebujete vědět, abyste úspěšně implementovali použití nástrojů do svých pracovních postupů s Claude. Doporučujeme začít od začátku s [přehledem použití nástrojů](./01_tool_use_overview.ipynb), protože každá lekce staví na klíčových konceptech vyučovaných v předchozích lekcích.
 
-## Table of contents
-* [Tool use overview](./01_tool_use_overview.ipynb)
-* [Your first simple tool](./02_your_first_simple_tool.ipynb)
-* [Forcing JSON with tool use](./03_structured_outputs.ipynb)
-* [The complete tool use workflow](./04_complete_workflow.ipynb)
-* [Tool choice](./05_tool_choice.ipynb)
-* [Building a chatbot with multiple tools](./06_chatbot_with_multiple_tools.ipynb)
+## Obsah
+* [Přehled použití nástrojů](./01_tool_use_overview.ipynb)
+* [Váš první jednoduchý nástroj](./02_your_first_simple_tool.ipynb)
+* [Vynucení JSON s použitím nástrojů](./03_structured_outputs.ipynb)
+* [Kompletní pracovní postup použití nástrojů](./04_complete_workflow.ipynb)
+* [Výběr nástroje](./05_tool_choice.ipynb)
+* [Vytvoření chatbota s více nástroji](./06_chatbot_with_multiple_tools.ipynb)

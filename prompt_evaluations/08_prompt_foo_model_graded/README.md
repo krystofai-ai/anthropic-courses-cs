@@ -1,8 +1,8 @@
-To get started, set your ANTHROPIC_API_KEY environment variable
+Pro začátek nastavte proměnnou prostředí ANTHROPIC_API_KEY
 
-Then run:
+Poté spusťte:
 ```
 promptfoo eval
 ```
 
-Afterwards, you can view the results by running `promptfoo view`
+Poté můžete zobrazit výsledky spuštěním `promptfoo view`

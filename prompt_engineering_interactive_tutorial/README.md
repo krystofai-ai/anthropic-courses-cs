@@ -1,58 +1,58 @@
-# Welcome to Anthropic's Prompt Engineering Interactive Tutorial
+# Vítejte v interaktivním tutoriálu pro návrh promptů od společnosti Anthropic
 
-## Course introduction and goals
+## Úvod do kurzu a cíle
 
-This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
+Tento kurz je určen k tomu, aby vám poskytl komplexní krok za krokem pochopení, jak navrhovat optimální prompty v rámci Claude.
 
-**After completing this course, you will be able to**:
-- Master the basic structure of a good prompt 
-- Recognize common failure modes and learn the '80/20' techniques to address them
-- Understand Claude's strengths and weaknesses
-- Build strong prompts from scratch for common use cases
+**Po dokončení tohoto kurzu budete schopni**:
+- Ovládnout základní strukturu dobrého promptu
+- Rozpoznat běžné chyby a naučit se techniky '80/20' k jejich řešení
+- Pochopit silné a slabé stránky Claude
+- Vytvářet silné prompty od nuly pro běžné případy použití
 
-## Course structure and content
+## Struktura a obsah kurzu
 
-This course is structured to allow you many chances to practice writing and troubleshooting prompts yourself. The course is broken up into **9 chapters with accompanying exercises**, as well as an appendix of even more advanced methods. It is intended for you to **work through the course in chapter order**. 
+Tento kurz je strukturován tak, aby vám poskytl mnoho příležitostí k procvičování psaní a řešení problémů s prompty sami. Kurz je rozdělen do **9 kapitol s doprovodnými cvičeními**, a také obsahuje přílohu s ještě pokročilejšími metodami. Je určen k tomu, abyste **procházeli kurzem v pořadí kapitol**.
 
-**Each lesson has an "Example Playground" area** at the bottom where you are free to experiment with the examples in the lesson and see for yourself how changing prompts can change Claude's responses. There is also an [answer key](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing).
+**Každá lekce má na konci "Example Playground" oblast**, kde můžete volně experimentovat s příklady v lekci a sami vidět, jak změna promptů může změnit odpovědi Claude. K dispozici je také [klíč k odpovědím](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing).
 
-Note: This tutorial uses our smallest, fastest, and cheapest model, Claude 3 Haiku. Anthropic has [two other models](https://docs.anthropic.com/claude/docs/models-overview), Claude 3 Sonnet and Claude 3 Opus, which are more intelligent than Haiku, with Opus being the most intelligent.
+Poznámka: Tento tutoriál používá náš nejmenší, nejrychlejší a nejlevnější model, Claude 3 Haiku. Anthropic má [další dva modely](https://docs.anthropic.com/claude/docs/models-overview), Claude 3 Sonnet a Claude 3 Opus, které jsou inteligentnější než Haiku, přičemž Opus je nejinteligentnější.
 
-*This tutorial also exists on [Google Sheets using Anthropic's Claude for Sheets extension](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?usp=sharing). We recommend using that version as it is more user friendly.*
+*Tento tutoriál také existuje na [Google Sheets pomocí rozšíření Anthropic's Claude for Sheets](https://docs.google.com/spreadsheets/d/19jzLgRruG9kjUQNKtCg1ZjdD6l6weA6qRXG5zLIAhC8/edit?usp=sharing). Doporučujeme použít tuto verzi, protože je uživatelsky přívětivější.*
 
-When you are ready to begin, go to `01_Basic Prompt Structure` to proceed.
+Až budete připraveni začít, přejděte na `01_Basic Prompt Structure` a pokračujte.
 
-## Table of Contents
+## Obsah
 
-Each chapter consists of a lesson and a set of exercises.
+Každá kapitola se skládá z lekce a sady cvičení.
 
-### Beginner
-- **Chapter 1:** Basic Prompt Structure
+### Začátečník
+- **Kapitola 1:** Základní struktura promptu
 
-- **Chapter 2:** Being Clear and Direct  
+- **Kapitola 2:** Být jasný a přímý  
 
-- **Chapter 3:** Assigning Roles
+- **Kapitola 3:** Přiřazování rolí
 
-### Intermediate 
-- **Chapter 4:** Separating Data from Instructions
+### Středně pokročilý 
+- **Kapitola 4:** Oddělení dat od instrukcí
 
-- **Chapter 5:** Formatting Output & Speaking for Claude
+- **Kapitola 5:** Formátování výstupu & Mluvení za Claude
 
-- **Chapter 6:** Precognition (Thinking Step by Step)
+- **Kapitola 6:** Předvídání (Myslet krok za krokem)
 
-- **Chapter 7:** Using Examples
+- **Kapitola 7:** Použití příkladů
 
-### Advanced
-- **Chapter 8:** Avoiding Hallucinations
+### Pokročilý
+- **Kapitola 8:** Vyhýbání se halucinacím
 
-- **Chapter 9:** Building Complex Prompts (Industry Use Cases)
-  - Complex Prompts from Scratch - Chatbot
-  - Complex Prompts for Legal Services
-  - **Exercise:** Complex Prompts for Financial Services
-  - **Exercise:** Complex Prompts for Coding
-  - Congratulations & Next Steps
+- **Kapitola 9:** Vytváření složitých promptů (Průmyslové případy použití)
+  - Složité prompty od nuly - Chatbot
+  - Složité prompty pro právní služby
+  - **Cvičení:** Složité prompty pro finanční služby
+  - **Cvičení:** Složité prompty pro programování
+  - Gratulace & Další kroky
 
-- **Appendix:** Beyond Standard Prompting
-  - Chaining Prompts
-  - Tool Use
-  - Search & Retrieval
+- **Příloha:** Nad rámec standardního promptování
+  - Řetězení promptů
+  - Použití nástrojů
+  - Vyhledávání & Získávání

@@ -1,9 +1,9 @@
-# Anthropic API fundamentals
-A series of notebook tutorials that cover the essentials of working with Claude models and the Anthropic SDK including:
+# Základy Anthropic API
+Série tutoriálů v noteboocích, které pokrývají základy práce s modely Claude a Anthropic SDK včetně:
 
-* [Getting an API key and making simple requests](./01_getting_started.ipynb)
-* [Working with the messages format](./02_messages_format.ipynb)
-* [Comparing capabilities and performance of the Claude model family](./03_models.ipynb)
-* [Understanding model parameters](./04_parameters.ipynb)
-* [Working with streaming responses](./05_Streaming.ipynb)
+* [Získání API klíče a provádění jednoduchých požadavků](./01_getting_started.ipynb)
+* [Práce s formátem zpráv](./02_messages_format.ipynb)
+* [Porovnání schopností a výkonu rodiny modelů Claude](./03_models.ipynb)
+* [Porozumění parametrům modelu](./04_parameters.ipynb)
+* [Práce s proudovými odpověďmi](./05_Streaming.ipynb)
 * [Vision prompting](./06_vision.ipynb)
